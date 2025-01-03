@@ -1,2 +1,2 @@
 # timeseries
-Multiple techniques of time series analysis will be explored here using R
+Multiple techniques of time series analysis will be explored here using R and python
